@@ -5,7 +5,7 @@
 ## Spin up instructions
 
 ```bash
-./create.sh udagramNetwork network.yml network-parameters.yml
+./create.sh udagramNetwork network.yml network-parameters.json
 ```
 
 ```bash
