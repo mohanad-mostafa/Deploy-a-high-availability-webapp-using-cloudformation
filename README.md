@@ -1,9 +1,7 @@
 # CD12352 - Infrastructure as Code Project Solution
 
-## Diagram
-![alt text] (udagram_diagram.png)
-# [YOUR NAME HERE]
-Mohanad Mostafa - Code Project Solution
+# [Mohanad Mostafa]
+
 ## Spin up instructions
 
 ```bash
@@ -22,3 +20,5 @@ Mohanad Mostafa - Code Project Solution
 ```bash
     $ ./delete.sh udagramNetwork
 ```
+## Diagram
+![alt text] udagram_diagram.png
